@@ -10,10 +10,10 @@ Kase is a modular, microservices-based **case management and workflow platform**
 
 The Kase platform is split across focused, independently deployable services:
 
-| Service       | Description | Repo                                                   |
-|---------------|---|--------------------------------------------------------|
-| **KaseAuth**  | Identity management, JWT auth, RBAC, multi-tenancy | [KaseAuth](https://github.com/Avi-Rana-1718/KaseAuth)  |
-| **KaseAdmin** | Feature flag management, per-org flag assignment, and tenant-scoped user listings | [KaseAuth](https://github.com/Avi-Rana-1718/KaseAdmin) |
+| Service       | Description | Repo                                                    |
+|---------------|---|---------------------------------------------------------|
+| **KaseAuth**  | Identity management, JWT auth, RBAC, multi-tenancy | [KaseAuth](https://github.com/Avi-Rana-1718/KaseAuth)   |
+| **KaseAdmin** | Feature flag management, per-org flag assignment, and tenant-scoped user listings | [KaseAdmin](https://github.com/Avi-Rana-1718/KaseAdmin) |
 ---
 
 ## What's in This Module
